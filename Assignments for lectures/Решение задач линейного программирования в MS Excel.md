@@ -25,7 +25,7 @@
 После этого отметьте и установите это расширение в Excel. Надстройка должна появиться на вкладке `Данные` в группе инструментов `Анализ`.
 
 ## Примеры решения задач
-https://baguzin.ru/wp/reshenie-zadachi-linejnogo-programmir/
+
 __
 ### Задача 1. 
 
@@ -43,9 +43,15 @@ __
 
 Для решения этой задачи в Excel формируется рабочий лист с данными, к примеру, следующего вида.
 
+![Размещение данных для решения задачи](https://github.com/SerjiEvg/computer_science_course/blob/master/Assignments%20for%20lectures/images/ex1_excel.jpg?raw=true)
 
+После размещения данных на листе (размещение может быть произвольным, исходя из удобства решения задачи) составляем формулы для целевой ячейки и вычисления ограничений. Ячейки с формулами в этом примере показаны на рисунке ниже.
 
+![Размещение данных для решения задачи](https://github.com/SerjiEvg/computer_science_course/blob/master/Assignments%20for%20lectures/images/ex2_excel.jpg?raw=true)
 
+С помощью надствойки Поиск решения формируем условия для решения задачи. 
+
+![Размещение данных для решения задачи](https://github.com/SerjiEvg/computer_science_course/blob/master/Assignments%20for%20lectures/images/ex3_excel.jpg?raw=true)
 
 
 
